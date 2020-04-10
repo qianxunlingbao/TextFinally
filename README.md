@@ -1,2 +1,1 @@
-# TextFinally
-记事本
+# jsnotepad
